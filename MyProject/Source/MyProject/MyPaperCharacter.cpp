@@ -74,12 +74,12 @@ void AMyPaperCharacter::UpdateAnimation()
 
 void AMyPaperCharacter::moveLeft(float scaleVal)
 {
-	AddMovementInput(FVector(-1.0f, 0.0f, 0.0f), scaleVal * 0.5f, false);
+	AddMovementInput(FVector(-1.0f, 0.0f, 0.0f), scaleVal, false);
 }
 
 void AMyPaperCharacter::moveRight(float scaleVal)
 {
-	AddMovementInput(FVector(1.0f, 0.0f, 0.0f), scaleVal * 0.5f, false);
+	AddMovementInput(FVector(1.0f, 0.0f, 0.0f), scaleVal, false);
 }
 
 void AMyPaperCharacter::UpdateRotation()
