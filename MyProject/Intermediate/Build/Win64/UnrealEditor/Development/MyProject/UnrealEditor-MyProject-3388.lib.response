@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject-3388.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"M:\Test-Unreal-Guaca-Mole-DES310\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"M:\Test-Unreal-Guaca-Mole-DES310\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyPaperCharacter.cpp.obj"
+"M:\Test-Unreal-Guaca-Mole-DES310\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
+"M:\Test-Unreal-Guaca-Mole-DES310\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyPaperCharacter.gen.cpp.obj"
+"M:\Test-Unreal-Guaca-Mole-DES310\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"M:\Test-Unreal-Guaca-Mole-DES310\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\Default.rc2.res"
+/OUT:"M:\Test-Unreal-Guaca-Mole-DES310\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\UnrealEditor-MyProject-3388.lib"

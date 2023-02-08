@@ -1,8 +1,19 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{D905FB67-4158-31B3-EDF9-03B9134EAB69}",
+	"EngineAssociation": "{7E1C21ED-4B36-C70C-7B64-C090293458AC}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "MyProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Paper2D",
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
