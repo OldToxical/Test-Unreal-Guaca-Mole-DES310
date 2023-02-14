@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"M:\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
-		"M:\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject.Target.cs",
-		"M:\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProjectEditor.Target.cs"
+		"D:\\Users\\Joe\\Downloads\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"D:\\Users\\Joe\\Downloads\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject.Target.cs",
+		"D:\\Users\\Joe\\Downloads\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
