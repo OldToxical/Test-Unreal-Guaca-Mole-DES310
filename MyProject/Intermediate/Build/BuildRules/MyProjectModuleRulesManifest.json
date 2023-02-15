@@ -1,8 +1,14 @@
 {
 	"SourceFiles": [
+<<<<<<< Updated upstream
 		"D:\\Users\\Joe\\Downloads\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
 		"D:\\Users\\Joe\\Downloads\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject.Target.cs",
 		"D:\\Users\\Joe\\Downloads\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProjectEditor.Target.cs"
+=======
+		"E:\\Epic\\UNreal\\Projects\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"E:\\Epic\\UNreal\\Projects\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject.Target.cs",
+		"E:\\Epic\\UNreal\\Projects\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProjectEditor.Target.cs"
+>>>>>>> Stashed changes
 	],
 	"EngineVersion": "5.0.3"
 }

@@ -21,6 +21,18 @@
 	},
 	"BuildProducts": [
 		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-MyProject.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-MyProject.pdb",
+			"Type": "SymbolFile"
+		},
+		{
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.dll",
 			"Type": "RequiredResource"
 		},
@@ -5339,6 +5351,7 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/Binaries/Win64/UnrealEditor-XGEController.dll",
 			"Type": "DynamicLibrary"
+<<<<<<< Updated upstream
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/Binaries/Win64/UnrealEditor-XGEController.pdb",
@@ -5355,9 +5368,15 @@
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-MyProject.pdb",
 			"Type": "SymbolFile"
+=======
+>>>>>>> Stashed changes
 		}
 	],
 	"RuntimeDependencies": [
+		{
+			"Path": "$(ProjectDir)/MyProject.uproject",
+			"Type": "UFS"
+		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/ARM/Win64/astcenc-sse2.exe",
 			"Type": "NonUFS"
@@ -25860,10 +25879,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/MyProject.uproject",
 			"Type": "UFS"
 		}
 	],

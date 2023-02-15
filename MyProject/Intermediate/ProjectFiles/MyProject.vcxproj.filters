@@ -41,10 +41,22 @@
     <Filter Include="Source\MyProject">
       <UniqueIdentifier>{E24959B1-EBAF-399D-9D3A-65ADD2D94AF5}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\MyProject\MyPaperCharacter.cpp">
+    <ClCompile Include="..\..\Source\MyProject\Enemy.cpp">
       <Filter>Source\MyProject</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\MyProject\MyPaperCharacter.h">
+    <ClInclude Include="..\..\Source\MyProject\Enemy.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\Frog_Test.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\Frog_Test.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyProject\BoomBoom.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyProject\BoomBoom.h">
       <Filter>Source\MyProject</Filter>
     </ClInclude>
     <None Include="..\..\Source\MyProject\MyProject.Build.cs">
@@ -57,4 +69,18 @@
       <Filter>Source\MyProject</Filter>
     </ClInclude>
   </ItemGroup>
+<<<<<<< Updated upstream
 </Project>
+=======
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MyProject\ZipZap.cpp">
+      <Filter>Source\MyProject</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MyProject\ZipZap.h">
+      <Filter>Source\MyProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
+>>>>>>> Stashed changes

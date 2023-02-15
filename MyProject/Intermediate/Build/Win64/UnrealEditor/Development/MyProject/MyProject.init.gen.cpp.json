@@ -1,11 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
+<<<<<<< Updated upstream
         "Source": "d:\\users\\joe\\downloads\\test-unreal-guaca-mole-des310\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\myproject.init.gen.cpp",
         "ProvidedModule": "",
         "PCH": "d:\\users\\joe\\downloads\\test-unreal-guaca-mole-des310\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
             "d:\\users\\joe\\downloads\\test-unreal-guaca-mole-des310\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h"
+=======
+        "Source": "e:\\epic\\unreal\\projects\\test-unreal-guaca-mole-des310\\myproject\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject\\myproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\epic\\unreal\\projects\\test-unreal-guaca-mole-des310\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\epic\\unreal\\projects\\test-unreal-guaca-mole-des310\\myproject\\intermediate\\build\\win64\\unrealeditor\\development\\myproject\\definitions.myproject.h"
+>>>>>>> Stashed changes
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

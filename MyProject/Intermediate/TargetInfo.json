@@ -2,12 +2,20 @@
 	"Targets": [
 		{
 			"Name": "MyProject",
+<<<<<<< Updated upstream
 			"Path": "D:\\Users\\Joe\\Downloads\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject.Target.cs",
+=======
+			"Path": "E:\\Epic\\UNreal\\Projects\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProject.Target.cs",
+>>>>>>> Stashed changes
 			"Type": "Game"
 		},
 		{
 			"Name": "MyProjectEditor",
+<<<<<<< Updated upstream
 			"Path": "D:\\Users\\Joe\\Downloads\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProjectEditor.Target.cs",
+=======
+			"Path": "E:\\Epic\\UNreal\\Projects\\Test-Unreal-Guaca-Mole-DES310\\MyProject\\Source\\MyProjectEditor.Target.cs",
+>>>>>>> Stashed changes
 			"Type": "Editor"
 		}
 	]
